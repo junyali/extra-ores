@@ -6,7 +6,6 @@ import org.slf4j.LoggerFactory;
 import io.github.junyali.extra_ores.item.ModItems;
 import io.github.junyali.extra_ores.block.ModBlocks;
 import io.github.junyali.extra_ores.generation.ModGeneration;
-import io.github.junyali.extra_ores.entity.ModEntities;
 
 public class EXtraOres implements ModInitializer {
 	public static final String MOD_ID = "extra-ores";

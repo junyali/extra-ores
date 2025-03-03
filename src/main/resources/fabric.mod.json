@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"io.github.junyali.extra_ores.EXtraOresClient"
+		],
+		"fabric-datagen": [
+			"io.github.junyali.extra_ores.datagen.EXtraOresDataGenerator"
 		]
 	},
 	"mixins": [

@@ -10,6 +10,8 @@
     <br><br>
 </h1>
 
+<p align="center"><b>Development progress: Stalled ⚠<br></p>
+
 <p>eXtra Ores & Items is a small QoL mod aimed to add a small variety of extra, well.. ores and items!</p>
 <p>Ores can be found generated in all dimensions of Minecraft, with multiple unique recipes and equipment.</p>
 <p>This mod is still in alpha, and is my first Minecraft mod :P</p>
